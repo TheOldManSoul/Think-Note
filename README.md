@@ -13,5 +13,5 @@ Code writer myself and so this was essentially my limit
 currently skill wise, 
 
 So please feel free to use it to your hearts content and
-if anything is improved or such, i wish to be let know
-it it. :)
+if anything is improved or such, i wish to be let know of
+and credited for the original script/code if used elsewhere.
